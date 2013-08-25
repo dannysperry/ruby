@@ -1,0 +1,6 @@
+puts 'You\'re rad!'
+puts 'up\down'
+puts 'up\\down'
+puts 'up\\\down'
+puts 'up\\\\down'
+puts 'up\\\\\down'
